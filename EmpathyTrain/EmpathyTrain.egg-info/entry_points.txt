@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = empathytrain:main
+      [console_scripts]
+      initialize_EmpathyTrain_db = empathytrain.scripts.initializedb:main
+      
